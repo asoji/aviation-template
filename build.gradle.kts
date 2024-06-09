@@ -23,7 +23,7 @@ dependencies {
     implementation(libs.bundles.kotlinx)
     implementation(libs.bundles.logback)
     implementation(libs.kotlin.logging)
-    implementation(libs.reflection)
+    implementation(libs.reflections)
     testImplementation(kotlin("test"))
 }
 
