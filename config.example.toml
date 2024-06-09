@@ -1,0 +1,6 @@
+[discord]
+botToken = "" # Put your Discord Bot Token Here
+adminIDs = [ "" ] # Do an Array of anyone who you want to give privileges to with commands marked as `developerOnly`
+
+# CLONE THIS FILE AND RENAME IT TO `config.toml` FOR IT TO BE VALID AND PICKED UP,
+# LIKE HOW I PICKED UP YOUR FATHER FOR A ONE NIGHT STA-
